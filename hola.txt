@@ -1,4 +1,9 @@
 holaaaaaaaaaaaaaa
 soy paula  jajajajajajjajajaajja
 me amo 
+<<<<<<< HEAD
 su vida y obra maestra
+=======
+mañana nos enfocaremos en su vida laboral
+
+>>>>>>> cabecera
