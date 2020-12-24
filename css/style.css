@@ -19,7 +19,11 @@ body
 }
 #cabecera 
 {
+<<<<<<< HEAD
     background: rgb(45, 22, 128) ;
+=======
+    background: red ;
+>>>>>>> cabecera
     box-shadow: 0px, 2px, 20px, 0px rgba(0, 0, 0, 0.5);
     color: white;
     margin: 0px;
