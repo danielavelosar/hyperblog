@@ -1,4 +1,4 @@
-# Hyperblog  :tw-1f31f:
+# Hyperblog  :sun:
 estaba intentando hacer el curso de [git y github](https://platzi.com/cursos/git-github/) y me parece que agregar esto hace que el repositorio se vea más profesional 
 >agregaré entonces mis frases fav 
 >- if you fail to plan you are planning to fail
