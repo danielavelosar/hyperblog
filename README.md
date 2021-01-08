@@ -99,6 +99,7 @@ Rebase se encarga de ajustar los cambios al momento en que se realizaron y hacer
 
 Para hacer un rebase, primero debemos crear una nueva rama, posicionarnos en dicha rama con git checkout y realizar los cambios.
 * git rebase master desde nuestra rama de cambios es importante que git rebase se haga desde la rama con los cambios primero
+* primero los cambios a la rama que se quiere cambiar (git rebase master) y luego en la rama final (git rebase experimento)
 
 Con esto, ya tendremos unidas las historias de master con nuestra nueva rama. Posteior a esto se debe realizar checkout a mastery ejecutar el rebase desde master apuntando a nuestra rama de cambios git rebase nombreRamaCambios
 Esto lo que hará es integrar master con nuestra rama de cambios y luego pasarla a master nuevamente con todos los cambios incluidos, como un merge.
@@ -125,7 +126,7 @@ Luego, ejecutar git clean --dry-run esto se usa para verificar que eliminará gi
 Al confirmar lo que borrará, ejecutamos git clean -f con esto, ya estaremos borrando dichos archivos
 >> Nota: Git no eliminará los archivos que se encuentren dentro del .gitignore, tampoco eliminará los archivos que tengan el mismo nombre, asi esten en directorios distintos.
 
-###Git cherry pick
+### Git cherry pick
 Existe un mundo alternativo en el cual vamos avanzando en una rama pero necesitamos en master uno de esos avances de la rama, para eso utilizamos el comando git cherry-pick IDCommit.
 
 cherry-pick es una mala práctica porque significa que estamos reconstruyendo la historia.
