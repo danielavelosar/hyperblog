@@ -74,8 +74,8 @@ Y listo, ya tendremos configurada nuestra llave privada para poder conectarnos a
 * si ya estaba con HTTPS git remote set-url origin url-ssh-del-repositorio-en-github
 
 
-##otras cosas
-###Tags y versiones en Git y GitHub
+##  otras cosas
+### Tags y versiones en Git y GitHub
 
 **Crear un tag:** antes de crear un tag se debe elegir el commit el cual queremos identificar, para esto, podemos hacer un:
 
