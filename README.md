@@ -56,6 +56,9 @@ Publicar ramas en repositorio remotos: Si deseas que tu rama pueda ser usada/vis
 * Si el repositorio remoto es diferente a nuestro repositorio local, es probable que Git nos de un warning con el mensaje "refusing to merge unrelated histories" esto quiere decir que no puede hacer la fusión debido a que las historias de los dos repositorios son diferentes. Para forzar esta acción y poder obtener la historia del repositorio remoto debemos usar el comando git pull origin master --allow-unrelated-histories para permitir unir ambas historias.
 * si quiero mantenerme actualizada debo agregar otra fuente remota: git remote add upstream  urlRepositorioRemotoOriginal
 
+ejemplos nice 
+otros ejemplos más nice
+disponible y diversoS
 
 ## ssh 
 1. Primer paso: Generar las llaves SSH con el comando
