@@ -57,6 +57,7 @@ Publicar ramas en repositorio remotos: Si deseas que tu rama pueda ser usada/vis
 * si quiero mantenerme actualizada debo agregar otra fuente remota: git remote add upstream  urlRepositorioRemotoOriginal
 
 ejemplos nice 
+otros ejemplos más nice
 
 
 ## ssh 
