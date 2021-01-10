@@ -58,7 +58,7 @@ Publicar ramas en repositorio remotos: Si deseas que tu rama pueda ser usada/vis
 
 ejemplos nice 
 otros ejemplos más nice
-
+disponible y diversoS
 
 ## ssh 
 1. Primer paso: Generar las llaves SSH con el comando
